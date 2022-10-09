@@ -5,6 +5,11 @@ __pycache__/
 
 # C extensions
 *.so
+*.tfr
+
+# directory
+UTKFace/
+models/
 
 # Distribution / packaging
 .Python
